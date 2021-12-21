@@ -1,0 +1,2 @@
+本demo为了测试 springboot中通过ImportBeanDefinitionRegistrar实现类自动装配，
+并且在main中成功地通过ApplicationContext获取对应装配的实例方法
